@@ -1,0 +1,11 @@
+pandas
+matplotlib
+pydotplus
+six
+ipython
+scikit-learn
+seaborn
+scipy
+flask
+joblib
+requests
